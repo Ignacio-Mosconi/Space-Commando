@@ -3,9 +3,8 @@ Space Commando
 Version 1.0 - Powered by SDL 2.0
 
 - Additional libraries implemented:
-	SDL_TTF 2.0
-	SDL_Mixer 2.0
-
+	- SDL_TTF 2.0
+	- SDL_Mixer 2.0
 - Now compatible with both x86 and x64.
  
 Game Controls
